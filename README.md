@@ -15,6 +15,6 @@ Frameworks/Tools Used:
 
 ## Link to UI designed using Figma : 
 
-https://www.figma.com/proto/PsGBMVPTNEzV93hNjLzNjkNT/spam-shield?node-id=2%3A0&scaling=min-zoom
+https://www.figma.com/file/PsGBMVPTNEzV93hNjLzNjkNT/spam-shield
 
 #### Note : The project was originally created in 2018 but the original repository was deleted and thus was reuploaded.
